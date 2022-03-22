@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509535420559",
+    "project_id": "kids-drawing-app-ec8ea",
+    "storage_bucket": "kids-drawing-app-ec8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509535420559:android:31dd5383b503f7e0b130fa",
+        "android_client_info": {
+          "package_name": "com.example.kidsdrawingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509535420559-bp28nql19bn5v44ebule4d47klmp7nh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidsdrawingapp",
+            "certificate_hash": "24e147dd1e0819cf67d39b4fd7f8927e35956e06"
+          }
+        },
+        {
+          "client_id": "509535420559-oakqr5nlcv1m1t78m62n8dk6c0bd6dnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZG2GkxjBFo9BKuIkjaWGNIZbvhQMmyIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509535420559-oakqr5nlcv1m1t78m62n8dk6c0bd6dnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

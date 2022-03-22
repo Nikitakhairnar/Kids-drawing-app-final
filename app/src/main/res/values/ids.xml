@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_back" type="id">btn_back</item>
+    <item name="email_reg" type="id">email_reg</item>
+    <item name="passreg" type="id">passreg</item>
+</resources>

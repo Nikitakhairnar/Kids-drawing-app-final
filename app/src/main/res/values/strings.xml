@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kids Drawing app</string>
+    <!--TODO (Step 6: Add all the string values here.)-->
+    <!--START-->
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Let\'s draw our Imaginations, Let\'s draw our Dreams.</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <!--END-->
+
+    <!--START signup activity-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Enter Password</string>
+    <string name="email">Enter Email</string>
+    <string name="back">Go Back</string>
+
+    <!--TODO (Step 4: Add all the string values here.)-->
+    <!--START-->
+    <string name="sign_in_description_text">Enter your name, email id and password, to register with us.</string>
+    <!--END-->
+
+    <string name="get_started_name">Get Started</string>
+</resources>
